@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "什么门永远关不上？",
+      "answer": "球门"
+    },
+    {
+      "id": 2,
+      "question": "什么书在书店买不到？",
+      "answer": "遗书"
+    },
+    {
+      "id": 3,
+      "question": "什么动物天天熬夜？",
+      "answer": "熊猫（黑眼圈）"
+    },
+    {
+      "id": 4,
+      "question": "什么东西越洗越脏？",
+      "answer": "水"
+    },
+    {
+      "id": 5,
+      "question": "什么路不能走？",
+      "answer": "电路"
+    },
+    {
+      "id": 6,
+      "question": "什么人始终不敢洗澡？",
+      "answer": "泥人"
+    },
+    {
+      "id": 7,
+      "question": "什么蛋打不烂？",
+      "answer": "脸蛋"
+    },
+    {
+      "id": 8,
+      "question": "什么车寸步难行？",
+      "answer": "风车"
+    },
+    {
+      "id": 9,
+      "question": "什么海没有水？",
+      "answer": "火海"
+    },
+    {
+      "id": 10,
+      "question": "什么花不能摘？",
+      "answer": "烟花"
+    },
+    {
+      "id": 11,
+      "question": "什么人靠别人的脑袋生活？",
+      "answer": "理发师"
+    },
+    {
+      "id": 12,
+      "question": "什么果不能吃？",
+      "answer": "恶果"
+    },
+    {
+      "id": 13,
+      "question": "什么池不能洗澡？",
+      "answer": "电池"
+    },
+    {
+      "id": 14,
+      "question": "什么布剪不断？",
+      "answer": "瀑布"
+    },
+    {
+      "id": 15,
+      "question": "什么帽不能戴？",
+      "answer": "螺丝帽"
+    }
+  ]
+}

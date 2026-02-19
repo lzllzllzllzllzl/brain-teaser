@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🧠 脑筋急转弯挑战</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🧠 脑筋急转弯</h1>
+      <p class="subtitle">挑战你的思维极限！</p>
+    </header>
+
+    <div class="game-area">
+      <div class="score-board">
+        <span>得分：<strong id="score">0</strong></span>
+        <span>题目：<strong id="current">1</strong>/<strong id="total">15</strong></span>
+      </div>
+
+      <div class="question-card">
+        <div class="question-text" id="question">加载中...</div>
+        <div class="answer-area">
+          <input type="text" id="answer-input" placeholder="输入你的答案..." autocomplete="off">
+          <button id="submit-btn">提交答案</button>
+          <button id="show-answer-btn" class="secondary">查看答案</button>
+        </div>
+        <div class="feedback" id="feedback"></div>
+        <div class="correct-answer" id="correct-answer"></div>
+      </div>
+
+      <div class="controls">
+        <button id="next-btn" disabled>下一题</button>
+        <button id="restart-btn" class="secondary">重新开始</button>
+      </div>
+    </div>
+
+    <footer>
+      <p>💡 提示：答案可能有意想不到的哦！</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
